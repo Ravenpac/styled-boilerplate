@@ -8,7 +8,6 @@ import {
   Description,
   Header,
   Icon,
-  Question,
   SendButton,
   TextDivider,
   Title,
