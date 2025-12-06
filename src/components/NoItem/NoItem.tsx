@@ -1,4 +1,3 @@
-import { useRouter } from 'next/navigation';
 import { Container, Description, Text } from './styles';
 
 interface NoItemProps {
