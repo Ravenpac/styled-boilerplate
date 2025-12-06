@@ -1,13 +1,9 @@
 import { Container, Spinner } from './styles';
 
-interface Props {
-  style?: React.CSSProperties;
-}
-
-const Loading = ({ style }: Props) => {
+const Loading = () => {
   return (
     <Container>
-      <Spinner style={style} />
+      <Spinner />
     </Container>
   );
 };
